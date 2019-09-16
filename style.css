@@ -173,7 +173,7 @@ p {
 .poly, .poly-technique, .poly-about {
 	-webkit-clip-path: polygon(0% 84%, 70% 100%, 100% 94%, 100% 0%, 0% 0%);
 	clip-path: polygon(0% 84%, 70% 100%, 100% 94%, 100% 0%, 0% 0%);
-	background: url('Content/images/index-main.jpg') fixed;
+	background: url('index-main.jpg') fixed;
 	background-position-x: center;
 	background-size: cover;
 	transform: translateY(-5vh);
@@ -183,7 +183,7 @@ p {
 /* background for technique.html */
 
 .poly-technique {
-	background: url('Content/images/main-technique.jpg') fixed;
+	background: url('main-technique.jpg') fixed;
 	background-position-x: center;
 	background-size: cover;
 	height: 84vh;
@@ -191,7 +191,7 @@ p {
 /* background for about.html */
 
 .poly-about {
-	background: url('Content/images/triangle-poly-about.jpg') fixed;
+	background: url('triangle-poly-about.jpg') fixed;
 	background-position-x: center;
 	background-size: cover;
 	height: 90vh;

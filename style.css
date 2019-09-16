@@ -216,7 +216,7 @@ p {
 /* parallax between informations */
 
 .multi-parallax-container {
-	background: url("Content/images/one-case-mp.jpg") fixed;
+	background: url("one-case-mp.jpg") fixed;
 	background-position: center;
 	height: 55vh;
 	width: 100%;
@@ -230,7 +230,7 @@ p {
 /* parallax between information in technique.html */
 
 .multi-parallax-container-technique {
-	background: url("Content/images/solidsuit-drop-min.jpg") fixed;
+	background: url("solidsuit-drop-min.jpg") fixed;
 	background-position: center;
 	background-size: cover;
 	text-align: center;
@@ -238,7 +238,7 @@ p {
 /* parallax between information in about.html */
 
 .multi-parallax-container-about {
-	background: url("Content/images/about-parallax.jpg") fixed;
+	background: url("about-parallax.jpg") fixed;
 	background-position: center;
 	background-size: cover;
 	text-align: left;
